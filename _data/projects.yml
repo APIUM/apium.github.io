@@ -1,9 +1,6 @@
-- name: project 1
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+- name: WhenIsHL3 Reddit Bot
+  link: "http://www.reddit.com/u/whenishl3"
+  description: "I made a mildly successful Reddit bot once, /u/WhenIsHL3. It was unfortunatly banned, but I'm in the process of rewriting and re-releasing it. "
+- name: Honeycomb Rainmeter Skin
+  link: "http://apiium.deviantart.com/art/Honeycomb-467211707"
+  description: "Back when I used to use Windows, I was a big fan of Rainmeter. A desktop customisation program. I made a skin for it which became the go-to 'Wow, you're _still_ using honeycomb, try somethings new!' skin."
