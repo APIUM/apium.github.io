@@ -51,6 +51,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - jekyll-seo-tag
 
 whitelist:
   - jekyll-paginate
