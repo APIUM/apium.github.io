@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Adjusting the VTR250 Brake"
+title:  "Adjusting the VTR250 Rear Brake"
 date:   2017-03-12 00:20:00 +1100
 tags: ['motorbikes']
 author: "Algy"
 ---
 
 I've had my VTR250 for 3 months now, and I've finally decided to fix an issue that's been really bugging me:
-the brake lever.
+the rear brake lever.
 
 ![brakeAndFootpeg](/images/2017-03-12-brakeAndFootpeg.jpg){:class="img-responsive"}
 
-The brake lever on the VTR250 is clearly not intended for somebody with stiff ankles and a size 15 shoe,
+The rear brake lever on the VTR250 is clearly not intended for somebody with stiff ankles and a size 15 shoe,
 as it's a huge strech to cover the brake. Luckily even though it's not documented in the manual it's an easy
 fix. 
 
