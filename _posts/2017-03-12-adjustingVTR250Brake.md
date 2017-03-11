@@ -22,12 +22,17 @@ You will need:
 ![brakeDiagram](/images/2017-03-12-brakeDiagram.jpg){:class="img-responsive"}
 
 It's very simple unless you do it wrong, which as I was reading online, lots do...
+Some things to note:
+* Don't depress the brake lever after losening nut 3, you will spill brake fluid.
+* Once you've finished make sure your brake operates correctly before going off for a ride...
+
 In order:
 
-1. Loosen nut 3, just enough to let it move freely. 
-2. Loosen nut 1, slide it up the bolt 1/2cm or so. 
-3. Move the shaft by turning bolt 2 which is attached to it. Move the shaft down to lower the lever,
- up to raise it. 
+1. Loosen nut 3, just enough to get back the torque point (1/4-1/2 a turn). 
+2. Loosen nut 1, slide it up the shaft 1/2cm or so. 
+3. Move the shaft by turning bolt 2 which is attached to it. Move the shaft down to lower the lever, 
+up to raise it. 
+4. Tighten nuts 3 and 1 back up again.  
 
 Thanks it. Super easy. No idea why this isn't documented this easily somewhere, prehaps becasue it's so 
 simple, but I was doing it wrong and would have appreciated a guide like this. 
